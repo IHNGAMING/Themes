@@ -2,7 +2,7 @@
 
 Install script:
 ```sh
-bash <(curl https://raw.githubusercontent.com/Bahan-RDP/Themes/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/IHNGAMING/Themes/main/install.sh)
 ```
 
 Screenshots:
