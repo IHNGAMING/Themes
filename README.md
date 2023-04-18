@@ -1,4 +1,4 @@
-# MinecraftPurpleTheme
+# Minecraft Theme Remake By Me
 
 Install script:
 ```sh
