@@ -13,7 +13,7 @@ installTheme(){
     echo "Installing theme..."
     cd /var/www/pterodactyl
     rm -r Themes
-    git clone https://github.com/Bahan-RDP/Themes.git
+    git clone https://github.com/IHNGAMING/Themes.git
     cd Themes
     rm /var/www/pterodactyl/resources/scripts/Themes.css
     rm /var/www/pterodactyl/resources/scripts/index.tsx
@@ -47,7 +47,7 @@ installThemeQuestion(){
 }
 
 repair(){
-    bash <(curl https://raw.githubusercontent.com/Bahan-RDP/Themes/main/repair.sh)
+    bash <(curl https://raw.githubusercontent.com/IHNGAMING/Themes/main/repair.sh)
 }
 
 restoreBackUp(){
@@ -60,10 +60,10 @@ restoreBackUp(){
     yarn build:production
     sudo php artisan optimize:clear
 }
-echo "Copyright (c) 2023 Ronzz YT"
+echo "Copyright (c) 2023 IHN GAMING"
 echo "This program is free software: you can redistribute it and/or modify"
 echo ""
-echo "YouTube: https://youtube.com/c/RonzzYT"
+echo "YouTube: https://youtube.com/c/@IHNGAMINGYT"
 echo ""
 echo "[1] Install theme"
 echo "[2] Restore backup"
