@@ -1,4 +1,4 @@
-# Minecraft Theme Remake By Me
+# Pterodactyl Panel Themes
 
 Install script:
 ```sh
